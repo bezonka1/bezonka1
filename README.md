@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:ffffff,100:000000&text=BEZONKA&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=AI%20Builder%20%E2%80%A2%20Full-stack%20Creator%20%E2%80%A2%20Security-minded%20Dev&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=900&lines=Minimal.+Clean.+Powerful.;Building+AI+apps+and+premium+web+systems;Black+%26+White+Developer+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Minimal.+Clean.+Powerful.;Building+AI+apps+and+premium+web+systems;Black+%26+White+Developer+Profile)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=bezonkax7z&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/bezonkax7z?style=for-the-badge&logo=github&color=000000&labelColor=ffffff&logoColor=000000" />
